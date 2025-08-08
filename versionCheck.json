@@ -1,5 +1,5 @@
 {
-    "scripts": {
+    "tebex": {
       "wVanilla+HUD": {
         "version": "1.0",
         "update_url": "https://weilher-store.tebex.io/package/6974125"
